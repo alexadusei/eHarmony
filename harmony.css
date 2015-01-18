@@ -1,0 +1,81 @@
+body {
+	font-family: 'Pacifico', sans-serif;
+	font-size: 22px;
+}
+
+h1 {
+	font-family: "Lucida Calligraphy", sans-serif;
+	font-size: 55px;
+	font-weight: bolder;
+	color: #990033;
+}
+
+h2 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "Vivaldi", sans-serif;
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+div {
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 500px;
+	border-radius: 15px;
+	border: 5px solid #990033;
+}
+
+input[type="text"] {
+	border: 0px solid #000000;
+	border-bottom-width: 1px;
+	background-color: transparent;
+	text-align: center;
+	font-family: 'Pacifico', sans-serif;
+	font-size: 25px;
+}
+
+select {
+	font-family: 'Pacifico', sans-serif;
+	font-size: 20px;
+}
+
+legend {
+	font-family: 'Pacifico', sans-serif;
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+fieldset {
+	border: 0px none;
+}
+
+#main {
+	width: 700px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#score {
+	font-family: "Impact", sans-serif;
+	font-size: 80px;
+}
+
+#pic {
+	padding-bottom: 10px;
+}
+
+p{
+	font-family: "Impact", sans-serif;
+	font-size: 20px;
+}
+
+#tit {
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 100%;
+}
+
+#body1 {
+	padding-left: 25px;
+}
